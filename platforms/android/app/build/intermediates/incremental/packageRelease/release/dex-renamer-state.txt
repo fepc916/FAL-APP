@@ -1,0 +1,4 @@
+#Mon Feb 05 18:37:21 VET 2018
+base.0=/home/centro/Escritorio/FAL/platforms/android/app/build/intermediates/transforms/dex/release/0
+renamed.0=classes.dex
+file.0=/home/centro/Escritorio/FAL/platforms/android/app/build/intermediates/transforms/dex/release/0/classes.dex

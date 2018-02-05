@@ -1,0 +1,8 @@
+{
+  "name": "FAL",
+  "app_id": "386d7bee",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
